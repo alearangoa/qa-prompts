@@ -1,1 +1,1 @@
-
+Act as a senior QA engineer. I need at least 5 test cases for a login application with email and password validation. Include both positive and negative cases. For each test case, provide: title, steps, input data, and expected result.
